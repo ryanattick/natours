@@ -10,6 +10,9 @@
   "devDependencies": {
     "node-sass": "^4.9.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
   "description": ""
 }
